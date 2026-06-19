@@ -19,7 +19,7 @@ const bookRouter = require('./routes/books');
 
 const app = express();
 app.use(cors());
-const PORT = 8081;
+const PORT = process.env.PORT || 8081;
 
 app.use(express.json());
 
