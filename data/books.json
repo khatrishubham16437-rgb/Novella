@@ -1,0 +1,76 @@
+{
+  "books": [
+    {
+      "id": "4",
+      "name": "Rich dad poor dad",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "price": "8.365",
+      "publisher": "T. Egerton"
+    },
+    {
+      "id": "5",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "price": "10.99",
+      "publisher": "Little, Brown and Company"
+    },
+    {
+      "id": "7",
+      "name": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": "14.99",
+      "publisher": "George Allen & Unwin"
+    },
+    {
+      "id": "8",
+      "name": "Neuromancer",
+      "author": "William Gibson",
+      "genre": "Sci-Fi",
+      "price": "9.99",
+      "publisher": "Ace Books"
+    },
+    {
+      "id": "9",
+      "name": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Thriller",
+      "price": "11.25",
+      "publisher": "Norstedts Förlag"
+    },
+    {
+      "id": "10",
+      "name": "The Shining",
+      "author": "Stephen King",
+      "genre": "Horror",
+      "price": "12.00",
+      "publisher": "Doubleday"
+    },
+    {
+      "id": "11",
+      "name": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "price": "18.99",
+      "publisher": "Harper"
+    },
+    {
+      "id": "12",
+      "name": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "price": "8.50",
+      "publisher": "HarperTorch"
+    },
+    {
+      "id": "13",
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Mystery",
+      "price": "10.00",
+      "publisher": "Crown Publishing"
+    }
+  ]
+}
